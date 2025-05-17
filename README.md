@@ -19,15 +19,9 @@ Kami adalah perusahaan yang berkomitmen pada pembangunan desa berkelanjutan di P
 
 | Produk       | Deskripsi Singkat                                      |
 |--------------|---------------------------------------------------------|
-| 🛰️ BEE-NET    | Akses internet desa berbasis Starlink + sistem voucher |
 | 📄 BEE-SID    | Sistem Informasi Desa terintegrasi                     |
 | 🧾 BEE-DIS    | Dashboard Data & Statistik Desa                        |
 | 🌐 BEE-HUB    | Portal Layanan Publik Desa                             |
-| 🔍 BEE-OPTIX  | Sistem Monitoring & Survey Digital                     |
-| ⚡ BEE-ENERGY | Solusi Energi Terbarukan untuk Desa                    |
-| 📡 BEE-ALERT  | Sistem Peringatan Dini & Informasi Bencana            |
-| 🛠️ BEE-DRILL  | Layanan Perbaikan Infrastruktur Dasar                 |
-| 🔦 BEE-LUMA   | Sistem Penerangan Desa                                |
 
 ---
 
